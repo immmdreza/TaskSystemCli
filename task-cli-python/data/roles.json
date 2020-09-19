@@ -1,0 +1,341 @@
+[
+    {
+      "Emoji": "👨",
+      "FullName": "روستایی ساده",
+      "Kinders": [ "ros", "sade", "روس", "روستایی", "ساده", "vlg", "vg" ],
+      "ShortName": "vg",
+      "Team": "Village",
+      "Achivments": ["forbidden love"]
+    },
+    {
+      "Emoji": "🐺",
+      "FullName": "گرگینه",
+      "Kinders": [ "gorg", "grg", "اقا گرگع", "آقا گرگه", "گرگ", "گرگینه", "اقا گولگع", "ww" ],
+      "ShortName": "ww",
+      "Team": "Wolves",
+      "Achivments": [ "oh shi-", "no sorcery", "pack hunter", "lone wolf", "should've said something", "condition red!", "that's why you don't stay home" ]
+    },
+    {
+      "Emoji": "⚡️", 
+      "FullName": "گرگ آلفا",
+      "Kinders": [ "آرش", "ارش", "alpha", "نازا", "الفام", "گرگ الفا", "آلفا", "الفا", "alfa" ,"aw" ],
+      "ShortName": "aw",
+      "Team": "wolves",
+      "Achivments": [ "oh shi-", "strongest alpha", "wuffie-cult", "lucky day", "increase the pack!", "no sorcery!", "pack hunter", "lone wolf", "should've said something", "condition red!", "that's why you don't stay home" ]
+    },
+    {
+      "Emoji": "🙇",
+      "FullName": "پیشگوی رزرو",
+      "Kinders": [ "رزرو", "پیشگوی رزرو", "رزروم,", "رزروام", "app", "rezrv", "rzrv" ],
+      "ShortName": "app",
+      "Team": "Village"
+    },
+    {
+      "Emoji": "👁",
+      "FullName": "ناظر",
+      "Kinders": [ "شاهد", "ناظر", "bh", "nazer" ],
+      "ShortName": "bh",
+      "Team": "Village"
+    },
+    {
+      "Emoji": "🤕",
+      "FullName": "پسر گیج",
+      "Kinders": [ "gijam", "پسرگیجم", "پسرگیج", "گیجم", "گیج", "gij", "cg" ],
+      "ShortName": "cg",
+      "Team": "village",
+      "Achivments": [ "i'm not drun-- *burppp*" ]
+    },
+    {
+      "Emoji": "⚒",
+      "FullName": "آهنگر",
+      "Kinders": [ "آهنگر", "اهنگر", "اهنگرم", "آهنگرم", "ahangar", "ahan", "ah", "bs" ],
+      "ShortName": "bs",
+      "Team": "Village",
+      "Achivments": ["wasted silver"]
+    },
+    {
+      "Emoji": "👤",
+      "FullName": "فرقه گرا",
+      "Kinders": [ "فرقه گرا", "فرقه", "فرقم", "ferqe", "ferghe", "cult" ],
+      "ShortName": "cu",
+      "Team": "cultist",
+      "Achivments": ["cultist fodder","cultist convention","cult leader","that's why you don't stay home"]
+  
+    },
+    {
+      "Emoji": "💂",
+      "FullName": "شکارچی",
+      "Kinders": [ "شکار", "شکارچیم", "شکارچی ام", "شکارم", "shekarchiam", "shekaram", "ch" ],
+      "ShortName": "ch",
+      "Team": "Village",
+      "Achivments": ["cultist tracker"]
+    },
+    {
+      "Emoji": "🏹",
+      "FullName": "الهه عشق",
+      "Kinders": [ "الهه ام", "elahe eshgh", "الهه عشق", "الاهه", "الهه", "elahe", "cp" ],
+      "ShortName": "cp",
+      "Team": "Village",
+      "Achivments": [ "self loving" ]
+    },
+    {
+      "Emoji": "😾",
+      "FullName": "نفرین شده",
+      "Kinders": [ "نفرین ام", "nefrin", "نفرین شده", "نفرینم", "نفرین", "cr","nfrin" ],
+      "ShortName": "cr",
+      "Team": "Village"
+    },
+    {
+      "Emoji": "🕵️",
+      "FullName": "کاراگاه",
+      "Kinders": [ "کارگاهم", "کارام", "kara", "کارگاه", "کارا", "کاراگاه", "karagah", "de" ],
+      "ShortName": "de",
+      "Team": "Village",
+      "Achivments": ["streetwise"]
+  
+    },
+    {
+      "Emoji": "🎭",
+      "FullName": "همزاد",
+      "Kinders": [ "همزاد", "همزادم", "dg", "hamzad" ],
+      "ShortName": "dg",
+      "Team": "Doppelgänger",
+      "Achivments": [ "indestructible", "deep love"]
+    },
+    {
+      "Emoji": "🍻",
+      "FullName": "مست",
+      "Kinders": [ "مست", "مستم", "الکلی", "mast", "mastam", "dr" ],
+      "ShortName": "dr",
+      "Team": "Village",
+      "Achivments": ["wobble wobble"]
+    },
+    {
+      "Emoji": "🃏",
+      "FullName": "احمق",
+      "Kinders": [ "احمق", "احمقم", "ahmagh", "fo" ],
+      "ShortName": "fo",
+      "Team": "Village",
+      "Achivments": ["am i your seer?","even a stopped clock is right twice a day"]
+    },
+    {
+      "Emoji": "👼",
+      "FullName": "فرشته نگهبان",
+      "Kinders": [ "فرشته ام", "فرشتتون", "fereshtam", "fereshte", "فرشته نگهبان", "فرشتم", "فرشته", "ga","فری" ],
+      "ShortName": "ga",
+      "Team": "Village",
+      "Achivments": ["did you guard yourself?"]
+    },
+    {
+      "Emoji": "🔫",
+      "FullName": "تفنگدار",
+      "Kinders": [ "tofangam", "tofangdar", "tof", "tofang", "تفنگدارم", "تفنگم", "تفنگدار", "تفنگ", "gu" ],
+      "ShortName": "gu",
+      "Team": "Village",
+      "Achivments": ["saved by the bull(et)","smart gunner","double shot"]
+    },
+    {
+      "Emoji": "💋",
+      "FullName": "فاحشه",
+      "Kinders": [ "natasha", "خراب", "فاحشم", "فاحشه ام", "ناتاشا", "فاحشه", "faheshe", "ha" ],
+      "ShortName": "ha",
+      "Team": "Village",
+      "Achivments": ["promiscuous","affectionate"]
+    },
+    {
+      "Emoji": "🎯",
+      "FullName": "کلانتر",
+      "Kinders": [ "kalantaram", "kalantar", "کلانم", "کلانترم", "kalanm", "kalan", "کلان", "کلانتر", "hu" ],
+      "ShortName": "hu",
+      "Team": "Village",
+      "Achivments": ["Demoted by the death","double kill","hey man, nice shot","domino","double shot"]
+    },
+    {
+      "Emoji": "👷",
+      "FullName": "فراماسون",
+      "Kinders": [ "فرا","فراماسون", "ماسون", "فرام", "فراماسونم", "fra", "fera", "بنا", "ma"],
+      "ShortName": "ma",
+      "Team": "Village",
+      "Achivments": ["mason brother"]
+  
+    },
+    {
+      "Emoji": "🎖",
+      "FullName": "کدخدا",
+      "Kinders": [ "کدخدا", "کدی","کد", "کدخدام", "کدی ام", "kadkhoda", "mj" ],
+      "ShortName": "mj",
+      "Team": "Village",
+      "Achivments": ["president"]
+    },
+    {
+      "Emoji": "👑",
+      "FullName": "شاهزاده",
+      "Kinders": [ "shahzade", "shah", "پرنسسم", "پرنسس", "شاهزادم", "شاهم", "شاهزاده", "pr", "شاه" ],
+      "ShortName": "pr",
+      "Team": "Village",
+      "Achivments": ["spoiled rich brat"]
+    },
+    {
+      "Emoji": "👳",
+      "FullName": "پیشگو",
+      "Kinders": [ "پیشگو", "پیشگوام", "pish", "pishgo", "پیش", "se" ],
+      "ShortName": "se",
+      "Team": "Village",
+      "Achivments": ["seeing between teams","double vision","should have known","i see a lack of trust"]
+    },
+    {
+      "Emoji": "🔪",
+      "FullName": "قاتل زنجیره ای",
+      "Kinders": [ "قاتل زنجیره ای", "qatel", "قاتل", "ghatel", "قاتلم", "sk","بکن" ],
+      "ShortName": "sk",
+      "Team": "SerialKiller",
+      "Achivments": ["serial samaritan","psychopath killer","really bad luck","double kill"]
+  
+    },
+    {
+      "Emoji": "🔮",
+      "FullName": "جادوگر",
+      "Kinders": [ "جادو", "جادوام", "جادوگر", "jado", "jadogar", "jadoam","sc" ],
+      "ShortName": "sc",
+      "Team": "wolves",
+      "Achivments": ["seeing between teams","time to retire...","three little wolves and a big bad pig"]
+    },
+    {
+      "Emoji": "👺",
+      "FullName": "منافق",
+      "Kinders": [ "منافقم", "منافق", "لواشک", "لواشکم", "monafeq", "monafegh", "ta" ],
+      "ShortName": "ta",
+      "Team": "Tanner",
+      "Achivments": ["that came unexpected!","tanner overkill","so close!","masochist"]
+    },
+    {
+      "Emoji": "🖕",
+      "FullName": "خائن",
+      "Kinders": [ "خائن", "خائنم", "خاعن", "خاعنم", "khaen","tr" ],
+      "ShortName": "tr",
+      "Team": "Village"
+    },
+    {
+      "Emoji": "👶",
+      "FullName": "بچه وحشی",
+      "Kinders": [ "wc", "vahshiam", "vahshi", "وحشیم", "بچه وحشی", "وحشی" ],
+      "ShortName": "wc",
+      "Team": "Village",
+      "Achivments": [ "thanks, junior!" ]
+  
+    },
+    {
+      "Emoji": "🐶",
+      "FullName": "توله گرگ",
+      "Kinders": [ "شرناس", "توله گرگ", "تولم", "توله", "tule", "tole", "توله ام", "cub" ],
+      "ShortName": "cb",
+      "Team": "wolves",
+      "Achivments": [ "oh shi-", "i helped!", "no sorcery!", "pack hunter", "lone wolf", "should've said something", "condition red!", "that's why you don't stay home" ]
+    },
+    {
+      "Emoji": "👳🃏",
+      "FullName": "پیشگو یا احمق",
+      "Kinders": [ "پا", "pa", "پیشی" ],
+      "ShortName": "pa",
+      "Team": "village",
+      "Achivments": [ "seeing between teams", "double vision", "should have known", "i see a lack of trust", "even a stopped clock is right twice a day", "am i your seer?" ]
+    },
+    {
+      "Emoji": "🐺🌝",
+      "FullName": "گرگ ایکس",
+      "Kinders": [ "لیکان", "گرگ ایکس", "ایکس", "x", "gorgex", "Lycan", "ایکسم" ],
+      "ShortName": "ly",
+      "Team": "wolves",
+      "Achivments": [ "oh shi-", "no sorcery", "pack hunter", "lone wolf", "should've said something", "condition red!", "that's why you don't stay home" ]
+    },
+    {
+      "Emoji": "👱🌚",
+      "FullName": "گرگ نما",
+      "Kinders": [ "nama", "gorgnama", "نمام", "گرگنمام", "نما", "گرگنما", "wm" ],
+      "ShortName": "wn",
+      "Team": "Village",
+      "Achivments": ["just a beardy guy..?","trustworthy!"]
+    },
+    {
+      "Emoji": "💤",
+      "FullName": "خواب گذار",
+      "Kinders": [ "خوابم", "خواب گذار", "خواب", "khabam", "khabgozar", "khab", "sm" ],
+      "ShortName": "sm",
+      "Team": "Village"
+    },
+    {
+      "Emoji": "🌀",
+      "FullName": "پیشگوی نگاتیو ",
+      "Kinders": [ "نگاتیوم", "نگا", "negative", "پیشگوی نگاتیو", "نگاتیو", "نگاتیوی", "or" ],
+      "ShortName": "or",
+      "Team": "village",
+      "Achivments": ["now i'm blind'"]
+    },
+    {
+      "Emoji": "☮️",
+      "FullName": "صلح گرا",
+      "Kinders": [ "solham", "solhgara", "solh", "صلح گرا", "صلحم", "صلح", "pc" ],
+      "ShortName": "pc",
+      "Team": "Village",
+      "Achivments": ["every man for himself!","my sweetie so strong!"]
+    },
+    {
+      "Emoji": "📚",
+      "FullName": "ریش سفید",
+      "Kinders": [ "we", "risham", "rish", "ریشم", "ریش سفید", "ریش" ],
+      "ShortName": "we",
+      "Team": "Village",
+      "Achivments": ["i lost my wisdom"]
+    },
+    {
+      "Emoji": "👨‍🔬",
+      "FullName": "شیمیدان",
+      "Kinders": [ "شیمی", "شیمیدان", "شیمیم", "shimi", "chem", "shimidan", "cm" ],
+      "ShortName": "cm",
+      "Team": "village",
+      "Achivments": ["good choice... for you"]
+    },
+    {
+      "Emoji": "🐺☃️",
+      "FullName": "گرگ برفی",
+      "Kinders": [ "gorgbarfi", "barfi", "sw", "یخی", "برفی", "گرگ برفی", "sw" ],
+      "ShortName": "sw",
+      "Team": "wolves",
+      "Achivments": ["cold as ice"]
+    },
+    {
+      "Emoji": "☠️",
+      "FullName": "گورکن",
+      "Kinders": [ "goram", "گورکنم", "گورم", "gor", "گورکن", "گور", "gd" ],
+      "ShortName": "gd",
+      "Team": "Village"
+    },
+    {
+      "Emoji": "🔥",
+      "FullName": "آتش زن",
+      "Kinders": [ "atish", "arr", "آتیش", "آتش", "اتیش", "اتش زن", "atisham", "ar" ],
+      "ShortName": "ar",
+      "Team": "ARSONIST",
+      "Achivments": [ "playing with the fire", "firework" ]
+    },
+    {
+      "Emoji": "🦅",
+      "FullName": "رمال",
+      "Kinders": [ "رمالم", "رمال", "غیبگو", "حمال", "ramalam", "ramal", "ag" ],
+      "ShortName": "ag"
+    },
+    {
+      "Emoji": "🤯",
+      "FullName": "دردسرساز",
+      "Kinders": [ "دردسرم", "دردسر", "دردسرساز", "tm", "dardesar", "dardsar", "dardsr", "drdsr" ],
+      "ShortName": "tm",
+      "Team": "Village"
+    },
+    {
+      "Emoji": "😈",
+      "FullName": "دزد",
+      "Kinders": [ "dozdam", "dozd", "dzd", "ساریق", "سارق", "دزدم", "دزد", "کوثر", "th" ],
+      "ShortName": "th",
+      "Team": "Thief"
+    }
+  ]
